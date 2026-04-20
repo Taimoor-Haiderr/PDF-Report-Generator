@@ -57,7 +57,7 @@ Built using Tkinter with:
 
 # Technologies Used
 
-- Python 🐍
+- Python 
 - Tkinter (GUI)
 - ReportLab (PDF generation)
 - Matplotlib (Charts)
