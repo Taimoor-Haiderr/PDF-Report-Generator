@@ -1,0 +1,13 @@
+[
+
+   ["Name",	            "Id",	             "Email",  	          "Department",	                "Details"],
+
+  ["Bheem",       	   "F2020",	        "htaim@gmail.com",	      "Cyber Security",	               "Pass"],
+  ["John",	           "F2030",         "john34@gmail.com",	       "Computer Science",	           "Pass"],
+  ["Supraman",	       "F3030",	       "manth234@gmail.com",	    "Data Science",	               "Pass"],
+  ["Doreamon",         "F4040",	        "mon342@gmail.com",       "Information Technology",        "Pass"],
+  ["Ninja",	           "F5050",	        "ninja43@gmail.com",	    "Applied Physics",	           "Pass"],
+  ["Bahubali",	       "F6060",          "balikin@gmail.com",	      "Chemistry",	               "Pass"]
+
+
+]
